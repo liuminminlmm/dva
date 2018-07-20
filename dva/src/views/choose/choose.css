@@ -1,0 +1,13 @@
+.right{
+    width: .6rem;
+    position: fixed;
+    right: 0rem;
+    top:8%;
+    text-align: center;
+}
+.right p{
+    font-size: .28rem;
+    height: .35rem;
+    line-height: .35rem;
+    color: green;
+}

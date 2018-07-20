@@ -1,0 +1,9 @@
+.apphead input#search{
+    margin: .2rem auto;
+    padding-left: 1rem;
+}
+.apphead i{
+    position:relative;
+    top:0rem;
+    left: .5rem;
+}
